@@ -79,7 +79,7 @@ website:
         file: about.qmd
   comments:
     giscus:
-      repo: nhs-r-community/quarto-nhs-theme
+      repo: JT-39/quarto-nhs-theme
 format:
   html:
     toc: true
